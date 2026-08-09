@@ -1,6 +1,6 @@
 // Problem: 3302. Find the Lexicographically Smallest Valid Sequence
-// Runtime: 92 ms (Beats 5.32%)
-// Memory: 139.5 MB (Beats 7.45%)
+// Runtime: 92 ms (Beats 5.16%)
+// Memory: 139.5 MB (Beats 5.01%)
 
 class Solution {
 public:
